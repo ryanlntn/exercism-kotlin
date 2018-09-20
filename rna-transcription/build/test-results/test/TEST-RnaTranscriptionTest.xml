@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RnaTranscriptionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-09-14T05:14:58" hostname="Ryans-MacBook-Pro.local" time="0.034">
+  <properties/>
+  <testcase name="thymineComplementIsAdenine" classname="RnaTranscriptionTest" time="0.033"/>
+  <testcase name="adenineComplementIsUracil" classname="RnaTranscriptionTest" time="0.001"/>
+  <testcase name="rnaTranscription" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="guanineComplementIsCytosine" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="cytosineComplementIsGuanine" classname="RnaTranscriptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
