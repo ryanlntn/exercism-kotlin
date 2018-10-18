@@ -1,7 +1,7 @@
 package SumOfMultiples
 
 fun sum(set: Set<Int>, n: Int): Int {
-    val multiples = mutableSetOf(0)
+    val multiples: Set<Int> = mutableSetOf("wat")
 
     for (y in 1..(n - 1)) {
         for (x in set) {
